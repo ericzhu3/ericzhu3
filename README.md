@@ -1,6 +1,5 @@
 ### Hi there 👋
 - I'm a Computer Engineering student at the University of Waterloo
-- Previously worked as a software engineer at SparkLease Inc.
 - 📫 How to reach me: ehzhu@uwaterloo.ca or ericzhu369@gmail.com
 <!--
 **ericzhu3/ericzhu3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
